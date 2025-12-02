@@ -73,3 +73,4 @@ Follow best practices for:
 - Asynchronous processing using Spring's @Async or reactive programming with Spring WebFlux.
 
 Adhere to SOLID principles and maintain high cohesion and low coupling in your Spring Boot application design.
+https://www.paradigmadigital.com/dev/guia-cascade-ai-desarrolla-java-reglas-modo-chat-modo-code/
